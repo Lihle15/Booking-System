@@ -1,0 +1,218 @@
+﻿@model BookingSystem.Models.DoctorModel
+
+<h2>Edit Doctor</h2>
+
+<form asp-action="EditDoctor" asp-controller="Admin" method="post">
+    <div class="form-group">
+        <label asp-for="Name">Doctor Name</label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Specialty">Specialty</label>
+        <input asp-for="Specialty" class="form-control" />
+        <span asp-validation-for="Specialty" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Availability">Availability</label>
+        <input asp-for="Availability" class="form-control" />
+        <span asp-validation-for="Availability" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ContactDetails">Contact Details</label>
+        <input asp-for="ContactDetails" class="form-control" />
+        <span asp-validation-for="ContactDetails" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Status">Status</label>
+        <select asp-for="Status" class="form-control">
+            <option value="Active">Active</option>
+            <option value="Inactive">Inactive</option>
+        </select>
+        <span asp-validation-for="Status" class="text-danger"></span>
+    </div>
+
+    <br />
+
+    <div class="row mb-3">
+        <div class="col-md-6">
+            <button type="submit" class="btn btn-primary w-100">Save Changes</button>
+        </div>
+        <div class="col-md-6">
+            <a href="@Url.Action("ManageDoctors", "Admin")" class="btn btn-secondary w-100">Cancel</a>
+        </div>
+    </div>
+</form>
+
+
+<style>
+    .table-header {
+        text-align: center;
+        font-size: 1.5rem;
+        font-weight: bold;
+        background-color: #AA5C91; 
+        color: #FFFFFF; 
+    }
+
+    body {
+        font-family: 'Arial', sans-serif;
+        background-color: #FDF6F9;
+        color: #4A4A4A; 
+        margin: 0;
+        padding: 0;
+    }
+
+    .text-center {
+        max-width: 1500px;
+        margin: 0 auto;
+        text-align: center;
+        padding: 1rem;
+        background-color: #FFFFFF; 
+        border-radius: 10px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+
+    .custom-image {
+        max-width: 100%;
+        height: auto;
+        border-radius: 15px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        margin-bottom: 1rem;
+    }
+
+    .display-4 {
+        font-size: 2rem;
+        font-weight: 700;
+        color: #D17CA7; 
+    }
+
+    h2 {
+        font-size: 2.5rem;
+        color: #D17CA7; 
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+
+    h3 {
+        font-size: 1.8rem;
+        color: #E4A2C2; 
+        margin-top: 2rem;
+        border-bottom: 2px solid #F8E3EB; 
+        padding-bottom: 0.5rem;
+    }
+
+    p {
+        font-size: 1.1rem;
+        line-height: 1.8;
+        color: #4A4A4A; 
+        margin-bottom: 1.5rem;
+    }
+
+    ul {
+        list-style-type: none;
+        padding: 0;
+    }
+
+        ul li {
+            font-size: 1.1rem;
+            background-color: #F8E3EB; 
+            color: #D17CA7; 
+            padding: 0.5rem;
+            margin: 0.5rem 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+        }
+
+    a {
+        color: #D17CA7; 
+        text-decoration: none;
+    }
+
+        a:hover {
+            text-decoration: underline;
+            color: #AA5C91; 
+        }
+
+    .custom-button {
+        background-color: #D17CA7; 
+        color: white;
+        padding: 0.5rem 1rem;
+        border: none;
+        border-radius: 5px;
+        font-size: 1rem;
+        cursor: pointer;
+        margin-top: 1rem;
+        box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15);
+    }
+
+        .custom-button:hover {
+            background-color: #AA5C91; 
+        }
+
+    .about-content {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 2rem;
+        background-color: #FFFFFF; 
+        border-radius: 10px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+
+    .contact-info {
+        font-weight: bold;
+        margin-top: 2rem;
+        color: #D17CA7; 
+    }
+
+    .container {
+        max-width: 1200px;
+        margin: 2rem auto;
+    }
+
+    .navbar {
+        padding: 0.5rem 1rem;
+    }
+
+    .navbar-brand {
+        font-size: 1.5rem;
+        margin: 0;
+    }
+
+    .navbar .nav-link {
+        padding: 0.5rem 1rem;
+        font-size: 1rem;
+        color: #D17CA7; 
+    }
+
+        .navbar .nav-link:hover {
+            color: #AA5C91; 
+        }
+
+    .equal-height {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+    }
+
+    .card {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .card-body {
+        flex-grow: 1;
+    }
+
+    .table th, .table td {
+        padding: 1rem;
+    }
+
+    .table tbody tr:hover {
+        background-color: #FDF6F9; 
+    }
+</style>

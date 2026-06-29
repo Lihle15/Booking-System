@@ -1,0 +1,29 @@
+﻿@model BookingSystem.Models.Appointment
+
+<h2>Reschedule Appointment</h2>
+
+<form asp-action="EditAppointment" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="form-group">
+        <label asp-for="AppointmentDate"></label>
+        <input asp-for="AppointmentDate" class="form-control" type="date" />
+        <span asp-validation-for="AppointmentDate" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="AppointmentTime"></label>
+        <input asp-for="AppointmentTime" class="form-control" type="time" />
+        <span asp-validation-for="AppointmentTime" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="SelectedDoctor"></label>
+        <input asp-for="SelectedDoctor" class="form-control" />
+        <span asp-validation-for="SelectedDoctor" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Reschedule</button>
+</form>
+
+<a href="@Url.Action("ViewAllAppointments")" class="btn btn-secondary">Cancel</a>

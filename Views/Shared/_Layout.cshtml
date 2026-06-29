@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Doctor Appointment System </title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Doctor.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">EmpowerHER</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="About">About Us</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Services">Services</a>
+                        </li>
+                    </ul>
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                <form asp-controller="Account" asp-action="Logout" method="post" style="display: inline;">
+                                    <button type="submit" class="btn btn-danger nav-link">Logout</button>
+                                </form>
+                            }
+                            else
+                            {
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Login">Login</a>
+                            }
+                        </li>
+                        <li class="nav-item dropdown ms-3">
+                            <a class="nav-link dropdown-toggle" href="#" id="contactInfoDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Contact Info
+                            </a>
+                            <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="contactInfoDropdown">
+                                <li class="dropdown-header"><strong>Emergency Department</strong></li>
+                                <li><span class="dropdown-item"><strong>24/7 Emergency Number:</strong> +27 84 123 4567</span></li>
+                                <li><span class="dropdown-item"><strong>Alternate Emergency Number:</strong> +27 83 987 6543</span></li>
+                                <li class="dropdown-divider"></li>
+                                <li class="dropdown-header"><strong>Everyday Office</strong></li>
+                                <li><span class="dropdown-item"><strong>Office Number:</strong> +27 31 586 6779</span></li>
+                                <li><span class="dropdown-item"><strong>Email:</strong> info@empowerherhealth.co.za</span></li>
+                                <li class="dropdown-divider"></li>
+                                <li class="dropdown-header"><strong>Physical Address</strong></li>
+                                <li><span class="dropdown-item">EmpowerHer Health Group</span></li>
+                                <li><span class="dropdown-item">16 Emerald Street, KwaZulu Natal, 3201, South Africa</span></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <br />
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - Doctor - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,191 @@
+﻿@model IEnumerable<BookingSystem.Models.Patient>
+
+<h2>Manage Patients</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th class="text-center">Username</th>
+            <th class="text-center">Name</th>
+            <th class="text-center">Email</th>
+            <th class="text-center">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var patient in Model)
+        {
+            <tr>
+                <td>@patient.Username</td>
+                <td>@patient.Name @patient.Surname</td>
+                <td>@patient.Email</td>
+                <td>
+                    <a href="@Url.Action("ViewPatient", "Admin", new { id = patient.Id })" class="btn btn-info">View</a>
+                    <a href="@Url.Action("EditPatient", "Admin", new { id = patient.Id })" class="btn btn-warning">Edit</a>
+                    <a href="@Url.Action("DeletePatient", "Admin", new { id = patient.Id })" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="row mb-3">
+    <div class="col-md-6">
+        <a href="@Url.Action("CreatePatient")" class="btn btn-primary w-100">Create New Patient</a>
+    </div>
+    <div class="col-md-6">
+        <a href="@Url.Action("Dashboard", "Admin")" class="btn btn-secondary w-100">Back to Dashboard</a>
+    </div>
+</div>
+
+<style>
+    body {
+        font-family: 'Arial', sans-serif;
+        background-color: #FDF6F9; 
+        color: #4A4A4A; 
+        margin: 0;
+        padding: 0;
+    }
+
+    .text-center {
+        max-width: 1500px;
+        margin: 0 auto;
+        text-align: center;
+        padding: 1rem;
+        background-color: #FFFFFF; 
+        border-radius: 10px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+
+    .custom-image {
+        max-width: 100%;
+        height: auto;
+        border-radius: 15px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        margin-bottom: 1rem;
+    }
+
+    .display-4 {
+        font-size: 2rem;
+        font-weight: 700;
+        color: #D17CA7; 
+    }
+
+    h2 {
+        font-size: 2.5rem;
+        color: #D17CA7; 
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+
+    h3 {
+        font-size: 1.8rem;
+        color: #E4A2C2; 
+        margin-top: 2rem;
+        border-bottom: 2px solid #F8E3EB; 
+        padding-bottom: 0.5rem;
+    }
+
+    p {
+        font-size: 1.1rem;
+        line-height: 1.8;
+        color: #4A4A4A; 
+        margin-bottom: 1.5rem;
+    }
+
+    ul {
+        list-style-type: none;
+        padding: 0;
+    }
+
+        ul li {
+            font-size: 1.1rem;
+            background-color: #F8E3EB; 
+            color: #D17CA7;
+            padding: 0.5rem;
+            margin: 0.5rem 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+        }
+
+    a {
+        color: #D17CA7; 
+        text-decoration: none;
+    }
+
+        a:hover {
+            text-decoration: underline;
+            color: #AA5C91; 
+        }
+
+    .custom-button {
+        background-color: #D17CA7; 
+        color: white;
+        padding: 0.5rem 1rem;
+        border: none;
+        border-radius: 5px;
+        font-size: 1rem;
+        cursor: pointer;
+        margin-top: 1rem;
+        box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15);
+    }
+
+        .custom-button:hover {
+            background-color: #AA5C91; 
+        }
+
+    .about-content {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 2rem;
+        background-color: #FFFFFF; 
+        border-radius: 10px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+
+    .contact-info {
+        font-weight: bold;
+        margin-top: 2rem;
+        color: #D17CA7; 
+    }
+
+    .container {
+        max-width: 1200px;
+        margin: 2rem auto;
+    }
+
+    .navbar {
+        padding: 0.5rem 1rem;
+    }
+
+    .navbar-brand {
+        font-size: 1.5rem;
+        margin: 0;
+        color: #D17CA7; 
+    }
+
+    .navbar .nav-link {
+        padding: 0.5rem 1rem;
+        font-size: 1rem;
+        color: #D17CA7; 
+    }
+
+        .navbar .nav-link:hover {
+            color: #AA5C91; 
+        }
+
+    .equal-height {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+    }
+
+    .card {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .card-body {
+        flex-grow: 1;
+    }
+</style>

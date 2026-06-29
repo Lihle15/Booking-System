@@ -1,0 +1,392 @@
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\obj\Debug\net8.0\BookingSystem.csproj.AssemblyReference.cache
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\obj\Debug\net8.0\BookingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\obj\Debug\net8.0\BookingSystem.AssemblyInfoInputs.cache
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\obj\Debug\net8.0\BookingSystem.AssemblyInfo.cs
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\obj\Debug\net8.0\BookingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\obj\Debug\net8.0\BookingSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\obj\Debug\net8.0\BookingSystem.RazorAssemblyInfo.cache
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\obj\Debug\net8.0\BookingSystem.RazorAssemblyInfo.cs
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\appsettings.json
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\BookingSystem.staticwebassets.runtime.json
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\BookingSystem.exe
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\BookingSystem.deps.json
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\BookingSystem.runtimeconfig.json
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\BookingSystem.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\BookingSystem.pdb
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\obj\Debug\net8.0\staticwebassets\msbuild.BookingSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.BookingSystem.props
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookingSystem.props
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookingSystem.props
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\obj\Debug\net8.0\scopedcss\bundle\BookingSystem.styles.css
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\obj\Debug\net8.0\scopedcss\projectbundle\BookingSystem.bundle.scp.css
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\obj\Debug\net8.0\BookingS.E11A8EBE.Up2Date
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\obj\Debug\net8.0\BookingSystem.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\obj\Debug\net8.0\refint\BookingSystem.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\obj\Debug\net8.0\BookingSystem.pdb
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\obj\Debug\net8.0\BookingSystem.genruntimeconfig.cache
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\obj\Debug\net8.0\ref\BookingSystem.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lusanda\OneDrive - Tshwane University of Technology\Documents\Lihle\BookingSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\appsettings.json
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\BookingSystem.staticwebassets.runtime.json
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\BookingSystem.exe
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\BookingSystem.deps.json
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\BookingSystem.runtimeconfig.json
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\BookingSystem.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\BookingSystem.pdb
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\obj\Debug\net8.0\BookingSystem.csproj.AssemblyReference.cache
+C:\Users\Thembelihle\Desktop\BookingSystem\obj\Debug\net8.0\BookingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thembelihle\Desktop\BookingSystem\obj\Debug\net8.0\BookingSystem.AssemblyInfoInputs.cache
+C:\Users\Thembelihle\Desktop\BookingSystem\obj\Debug\net8.0\BookingSystem.AssemblyInfo.cs
+C:\Users\Thembelihle\Desktop\BookingSystem\obj\Debug\net8.0\BookingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Thembelihle\Desktop\BookingSystem\obj\Debug\net8.0\BookingSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Thembelihle\Desktop\BookingSystem\obj\Debug\net8.0\BookingSystem.RazorAssemblyInfo.cache
+C:\Users\Thembelihle\Desktop\BookingSystem\obj\Debug\net8.0\BookingSystem.RazorAssemblyInfo.cs
+C:\Users\Thembelihle\Desktop\BookingSystem\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Thembelihle\Desktop\BookingSystem\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Thembelihle\Desktop\BookingSystem\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Thembelihle\Desktop\BookingSystem\obj\Debug\net8.0\scopedcss\bundle\BookingSystem.styles.css
+C:\Users\Thembelihle\Desktop\BookingSystem\obj\Debug\net8.0\scopedcss\projectbundle\BookingSystem.bundle.scp.css
+C:\Users\Thembelihle\Desktop\BookingSystem\obj\Debug\net8.0\BookingS.E11A8EBE.Up2Date
+C:\Users\Thembelihle\Desktop\BookingSystem\obj\Debug\net8.0\BookingSystem.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\obj\Debug\net8.0\refint\BookingSystem.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\obj\Debug\net8.0\BookingSystem.pdb
+C:\Users\Thembelihle\Desktop\BookingSystem\obj\Debug\net8.0\BookingSystem.genruntimeconfig.cache
+C:\Users\Thembelihle\Desktop\BookingSystem\obj\Debug\net8.0\ref\BookingSystem.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\BookingSystem.staticwebassets.endpoints.json
+C:\Users\Thembelihle\Desktop\BookingSystem\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Thembelihle\Desktop\BookingSystem\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Thembelihle\Desktop\BookingSystem\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Thembelihle\Desktop\BookingSystem\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Thembelihle\Desktop\BookingSystem\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Thembelihle\Desktop\BookingSystem\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Thembelihle\Desktop\BookingSystem\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\appsettings.json
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\BookingSystem.staticwebassets.runtime.json
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\BookingSystem.staticwebassets.endpoints.json
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\BookingSystem.exe
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\BookingSystem.deps.json
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\BookingSystem.runtimeconfig.json
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\BookingSystem.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\BookingSystem.pdb
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Humanizer.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\lihle\Documents\BookingSystem\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\lihle\Documents\BookingSystem\obj\Debug\net8.0\BookingSystem.csproj.AssemblyReference.cache
+C:\Users\lihle\Documents\BookingSystem\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\lihle\Documents\BookingSystem\obj\Debug\net8.0\BookingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lihle\Documents\BookingSystem\obj\Debug\net8.0\BookingSystem.AssemblyInfoInputs.cache
+C:\Users\lihle\Documents\BookingSystem\obj\Debug\net8.0\BookingSystem.AssemblyInfo.cs
+C:\Users\lihle\Documents\BookingSystem\obj\Debug\net8.0\BookingSystem.csproj.CoreCompileInputs.cache
+C:\Users\lihle\Documents\BookingSystem\obj\Debug\net8.0\BookingSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lihle\Documents\BookingSystem\obj\Debug\net8.0\BookingSystem.RazorAssemblyInfo.cache
+C:\Users\lihle\Documents\BookingSystem\obj\Debug\net8.0\BookingSystem.RazorAssemblyInfo.cs
+C:\Users\lihle\Documents\BookingSystem\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\lihle\Documents\BookingSystem\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\lihle\Documents\BookingSystem\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\lihle\Documents\BookingSystem\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lihle\Documents\BookingSystem\obj\Debug\net8.0\scopedcss\bundle\BookingSystem.styles.css
+C:\Users\lihle\Documents\BookingSystem\obj\Debug\net8.0\scopedcss\projectbundle\BookingSystem.bundle.scp.css
+C:\Users\lihle\Documents\BookingSystem\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lihle\Documents\BookingSystem\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\lihle\Documents\BookingSystem\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lihle\Documents\BookingSystem\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\lihle\Documents\BookingSystem\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\lihle\Documents\BookingSystem\obj\Debug\net8.0\BookingS.E11A8EBE.Up2Date
+C:\Users\lihle\Documents\BookingSystem\obj\Debug\net8.0\BookingSystem.dll
+C:\Users\lihle\Documents\BookingSystem\obj\Debug\net8.0\refint\BookingSystem.dll
+C:\Users\lihle\Documents\BookingSystem\obj\Debug\net8.0\BookingSystem.pdb
+C:\Users\lihle\Documents\BookingSystem\obj\Debug\net8.0\BookingSystem.genruntimeconfig.cache
+C:\Users\lihle\Documents\BookingSystem\obj\Debug\net8.0\ref\BookingSystem.dll

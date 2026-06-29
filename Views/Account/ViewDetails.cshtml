@@ -1,0 +1,213 @@
+﻿@model BookingSystem.Models.Patient
+
+@{
+    ViewData["Title"] = "My Details";
+}
+
+<h2>Your Details</h2>
+
+<table class="table">
+    <tbody>
+        <tr>
+            <th>Username</th>
+            <td>@Model.Username</td>
+        </tr>
+        <tr>
+            <th>Password</th>
+            <td>@Model.Password</td>
+        </tr>
+        <tr>
+            <th>Name</th>
+            <td>@Model.Name @Model.Surname</td>
+        </tr>
+        <tr>
+            <th>Email</th>
+            <td>@Model.Email</td>
+        </tr>
+        <tr>
+            <th>Phone</th>
+            <td>@Model.PhoneNo</td>
+        </tr>
+        <tr>
+            <th>Date of Birth</th>
+            <td>@Model.DateOfBirth.ToString("d")</td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="text-center">
+    <a href="@Url.Action("Dashboard", "Account")" class="btn btn-secondary">Return to Dashboard</a>
+    <a href="@Url.Action("EditDetails", "Account")" class="btn btn-primary">Edit Details</a>   
+</div>
+
+<style>
+    body {
+        font-family: 'Arial', sans-serif;
+        background-color: #f8f9fa;
+        color: #333;
+        margin: 0;
+        padding: 0;
+    }
+
+    .text-center {
+        max-width: 1500px;
+        margin: 0 auto;
+        text-align: center;
+        padding: 1rem;
+        background-color: #ffffff;
+        border-radius: 10px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+
+    .about-content {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 2rem;
+        background-color: #ffffff;
+        border-radius: 10px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+
+    .custom-image {
+        max-width: 100%;
+        height: auto;
+        border-radius: 15px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        margin-bottom: 1rem;
+    }
+
+    .display-4 {
+        font-size: 2rem;
+        font-weight: 700;
+        color: #f06292; 
+    }
+
+    h2 {
+        font-size: 2.5rem;
+        color: #f06292; 
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+
+    h3 {
+        font-size: 1.8rem;
+        color: #f48fb1; 
+        margin-top: 2rem;
+        border-bottom: 2px solid #f8bbd0; 
+        padding-bottom: 0.5rem;
+    }
+
+    p {
+        font-size: 1.1rem;
+        line-height: 1.8;
+        color: #555;
+        margin-bottom: 1.5rem;
+    }
+
+    ul {
+        list-style-type: none;
+        padding: 0;
+    }
+
+        ul li {
+            font-size: 1.1rem;
+            background-color: #f8bbd0; 
+            color: #f06292; 
+            padding: 0.5rem;
+            margin: 0.5rem 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+        }
+
+    a {
+        color: #f06292; 
+        text-decoration: none;
+    }
+
+        a:hover {
+            text-decoration: underline;
+            color: #d81b60; 
+        }
+
+    .list-group-item {
+        font-size: 1.1rem;
+        background-color: #f8bbd0; 
+        color: #f06292;
+        padding: 0.75rem;
+        margin-bottom: 0.5rem;
+        border-radius: 8px;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    }
+
+        .list-group-item a {
+            text-decoration: none;
+            color: #f06292; 
+            font-weight: bold;
+        }
+
+    .table {
+        background-color: #ffffff;
+        border-radius: 8px;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    th, td {
+        padding: 0.75rem;
+        text-align: left;
+        border-top: 1px solid #dee2e6;
+    }
+
+    th {
+        background-color: #f1f1f1;
+    }
+
+    td {
+        font-size: 1rem;
+    }
+
+    .container {
+        max-width: 1200px;
+        margin: 2rem auto;
+    }
+
+    .custom-button {
+        background-color: #f06292; 
+        color: white;
+        padding: 0.5rem 1rem;
+        border: none;
+        border-radius: 5px;
+        font-size: 1rem;
+        cursor: pointer;
+        margin-top: 1rem;
+        box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15);
+    }
+
+        .custom-button:hover {
+            background-color: #d81b60; 
+        }
+
+    .contact-info {
+        font-weight: bold;
+        margin-top: 2rem;
+        color: #f06292;
+    }
+
+    .navbar {
+        padding: 0.5rem 1rem;
+    }
+
+    .navbar-brand {
+        font-size: 1.5rem;
+        margin: 0;
+    }
+
+    .navbar .nav-link {
+        padding: 0.5rem 1rem;
+        font-size: 1rem;
+        color: #f06292; 
+    }
+
+        .navbar .nav-link:hover {
+            color: #d81b60; 
+        }
+</style>
